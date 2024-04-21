@@ -1,0 +1,16 @@
+        <svg id="eNAnwIWJ5G11" stroke-width="4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="0 0 300 300" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" width="350" height="350">
+            <g transform="translate(-.854049-.399957)">
+                <path d="" transform="translate(-39-34)" fill="none" stroke="#3f5787" />
+                <rect width="36.049439" height="36.049439" rx="0" ry="0" transform="matrix(.436384 0 0 0.436384 37.368577 36.930868)" fill="none" stroke="#f00" stroke-width="8" />
+                <rect width="36.049439" height="36.049439" rx="0" ry="0" transform="translate(1.319138 52.662266)" fill="none" stroke="#f00"/>
+                <rect width="36.049439" height="36.049439" rx="0" ry="0" transform="translate(53.099975 0.881429)" fill="none" stroke="#f00"/>
+                <rect width="36.049439" height="36.049439" rx="0" ry="0" transform="translate(1.319138 0.881429)" fill="none" stroke="#f00"/>
+                <path d="M92.099975,86.662266q52.732323,0,53.01623,0" transform="translate(-39-34)" fill="none" stroke="#ff0005"/>
+                <path d="M92.099975,86.662266q52.732323,0,53.01623,0" transform="matrix(0-1 1 0 18.953411 145.257634)" fill="none" stroke="#ff0005"/><path d="M92.099975,86.662266q52.732323,0,53.01623,0" transform="matrix(0 1-1 0 139.762241-39.437709)" fill="none" stroke="#ff0005"/><path d="M92.099975,86.662266q52.732323,0,53.01623,0" transform="translate(-91.50809 18.537734)" fill="none" stroke="#ff0005"/>
+            </g>
+        </svg>
+
+        <svg  stroke-width="4" width="30" height="30" viewBox="0 0 300 300">
+            <path d="M92.099975,86.662266q52.732323,0,53.01623,0" transform="matrix(0-1 1 0 18.953411 145.257634)" fill="none" stroke="#ff0005"/>
+            <path d="" transform="translate(-39-34)"  fill="none" stroke="#f00" stroke-width="8" />
+        </svg>
