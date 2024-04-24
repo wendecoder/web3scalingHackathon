@@ -14,4 +14,12 @@
 
 **1. Carefully designed and impemented smart contracts**
 
-WeLaunch has a launchpad smart contract that handles everything related to the IDO sale, such as the IDO's max raise plan, IDO's sale start time, IDO's sale end time, number of tiers (in our case, four tiers), max raise per tier, and other related aspects. The launchpad smart contract is developed in a highly secure and optimized manner, ensuring resistance to attacks and minimizing transaction fees required for interaction. There are three main Vault or Pool smart contracts that enable users of our platform to pool their funds together, allowing them to subscribe to higher tiers (silver, gold, and diamond) and ensuring higher allocation amounts. Every functionality of the smart contracts has been thoroughly tested and proven to work flawlessly. Instructions for setting up and running the scripts to deploy the smart contracts and interact with them are clearly provided in this[README](https://github.com/wendecoder/web3scalingHackathon/blob/main/smartContacts/README.md) 
+WeLaunch has a launchpad smart contract that handles everything related to the IDO sale, such as the IDO's max raise plan, IDO's sale start time, IDO's sale end time, number of tiers (in our case, four tiers), max raise per tier, and other related aspects. The launchpad smart contract is developed in a highly secure and optimized manner, ensuring resistance to attacks and minimizing transaction fees required for interaction. There are three main Vault or Pool smart contracts that enable users of our platform to pool their funds together, allowing them to subscribe to higher tiers (silver, gold, and diamond) and ensuring higher allocation amounts. Every functionality of the smart contracts has been thoroughly tested and proven to work flawlessly. Instructions for setting up and running the scripts to deploy the smart contracts and interact with them are clearly provided in this [README](https://github.com/wendecoder/web3scalingHackathon/blob/main/smartContacts/README.md) 
+
+**2. User friendly UI**
+
+WeLaunch has a very user friendly and simple user interface so that any user without much web3 experience can use it effectively. Below are the main components of the UI.
+
+**Landing Page**
+
+![LandingPage](LandingPage.png)
