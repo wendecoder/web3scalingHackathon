@@ -10,7 +10,7 @@
 
 **3. Collective Participation:** Depositing funds into a vault enables users to participate collectively in IDO events. When an IDO event occurs, users within the vault will collectively join the sale, leveraging pooled resources for potentially greater investment power and increased chances of allocation.
 
-## WHAT COMPONENTS DOES WE LAUNCH POSSES?
+###### WHAT COMPONENTS DOES WE LAUNCH POSSES?
 
 **1. Carefully designed and impemented smart contracts**
 
@@ -51,3 +51,8 @@ WeLaunch has a very user friendly and simple user interface so that any user wit
 **User Profile Page**
 
 ![ProfilePage](profilePage.png)
+
+
+###### WHY WE BUILT WELAUNCH?
+
+The motivation behind creating WeLaunch stemmed from dissatisfaction with the current state of launchpad platforms. Many existing platforms require a significant initial investment, often exceeding $5,000, just to subscribe to the second (silver) tier. This high barrier to entry makes it incredibly challenging for individuals with limited funds to participate, effectively creating a system where those with more money can easily accumulate even greater wealth. We believe this approach is fundamentally flawed. Launchpads should be inclusive and accessible to all, regardless of financial means, empowering individuals to leverage these platforms to transform their lives. That's why we developed WeLaunch: a platform dedicated to democratizing access to launchpads, ensuring that even those with modest capital can seize opportunities and embark on their entrepreneurial journey.
