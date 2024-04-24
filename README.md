@@ -22,49 +22,49 @@ WeLaunch has a very user friendly and simple user interface so that any user wit
 
 **Landing Page(Hero Section)**
 
-![LandingPage](LandingPage.png)
+![LandingPage](assets/LandingPage.png)
 
 ---
 
 **Landing Page(Steps to go through)**
 
-![StepsToGoThrough](Steps.png)
+![StepsToGoThrough](assets/Steps.png)
 
 ---
 
 **Landing Page(IDOs)**
 
-![IDOs](IDOs.png)
+![IDOs](assets/IDOs.png)
 
 ---
 
 **IDO Page(Info about the IDO)**
 
-![IDOInfo](IDOInformation.png)
+![IDOInfo](assets/IDOInformation.png)
 
 ---
 
 **IDO Page(Vaults)**
 
-![Vaults](VaultPage.png)
+![Vaults](assets/VaultPage.png)
 
 ---
 
 **IDO Page(User depositing into the Vault)**
 
-![UserDepositing](UserDepositingIntoTheVault.png)
+![UserDepositing](assets/UserDepositingIntoTheVault.png)
 
 ---
 
 **Staking Page**
 
-![StakingPage](stakingPage.png)
+![StakingPage](assets/stakingPage.png)
 
 ---
 
 **User Profile Page**
 
-![ProfilePage](profilePage.png)
+![ProfilePage](assets/profilePage.png)
 
 
 ###### WHY WE BUILT WELAUNCH?
