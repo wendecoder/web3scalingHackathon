@@ -20,6 +20,10 @@ WeLaunch has a launchpad smart contract that handles everything related to the I
 
 WeLaunch has a very user friendly and simple user interface so that any user without much web3 experience can use it effectively. Below are the main components of the UI.
 
-**Landing Page**
+**Landing Page(Hero Section)**
 
 ![LandingPage](LandingPage.png)
+
+**Landing Page(Steps to go through)**
+
+![StepsToGoThrough](Steps.png)
