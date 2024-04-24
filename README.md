@@ -24,36 +24,43 @@ WeLaunch has a very user friendly and simple user interface so that any user wit
 
 ![LandingPage](LandingPage.png)
 
+---
 
 **Landing Page(Steps to go through)**
 
 ![StepsToGoThrough](Steps.png)
 
+---
 
 **Landing Page(IDOs)**
 
 ![IDOs](IDOs.png)
 
+---
 
 **IDO Page(Info about the IDO)**
 
 ![IDOInfo](IDOInformation.png)
 
+---
 
 **IDO Page(Vaults)**
 
 ![Vaults](VaultPage.png)
 
+---
 
 **IDO Page(User depositing into the Vault)**
 
 ![UserDepositing](UserDepositingIntoTheVault.png)
 
+---
 
 **Staking Page**
 
 ![StakingPage](stakingPage.png)
 
+---
 
 **User Profile Page**
 
