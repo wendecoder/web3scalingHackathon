@@ -1,6 +1,6 @@
 **WE LAUNCH**
 
-#### WHAT IS WE LAUNCH?
+###### WHAT IS WE LAUNCH?
 
 **WELAUNCH** is platform that empowers users to pool their resources together in vaults, fostering a collaborative investment environment. Here's what you need to know about vault pooling and participation:
 
